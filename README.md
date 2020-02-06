@@ -1,5 +1,5 @@
 # LTT-Virus
- Did you really make me do this? This virus will full every **SINGLE LITTLE FOLDER** in your __ENTIRE__ system with an awesome Linus face (more to come!) until you have **NO SPACE LEFT**.(I've left ~1GB for you because I'm a good dev)
+ Did you really make me do this? This virus will full every **SINGLE LITTLE FOLDER** in your __ENTIRE__ system with an awesome Linus face (more to come!) until you have **NO SPACE LEFT**. (I've left ~1GB for you because I'm a good dev)
 
 ### Disclaimer:
 
