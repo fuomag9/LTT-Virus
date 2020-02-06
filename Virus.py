@@ -21,7 +21,7 @@ while shutil.disk_usage(p)[-1] > 1000:
         try:
             created_file = (folder / f"linus{iter_count}.png")
             created_file.touch()
-            print(f"Created {created_file}")
+            #print(f"Created {created_file}")
         except Exception:
             continue
         else:
